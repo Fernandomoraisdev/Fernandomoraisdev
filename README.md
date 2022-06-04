@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/fernandomoraisdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomoraisdev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=10ff10&bg_color=102510&icon_color=10ff10&locale=pt-br&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomoraisdev&layout=compact&langs_count=7&theme=midnight-purple&title_color=10ff10&bg_color=102510&icon_color=10ff10&locale=pt-br&border_radius=15"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernandomoraisdev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=10ff10&bg_color=102510&icon_color=10ff10&locale=pt-br&border_radius=15"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomoraisdev&layout=compact&langs_count=7&theme=midnight-purple&title_color=10ff10&bg_color=102510&icon_color=10ff10&locale=pt-br&border_radius=15"/>
 </div>
   
 ##
