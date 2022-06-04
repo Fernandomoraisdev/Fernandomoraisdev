@@ -5,6 +5,8 @@
 ### - 👯 JavaScript / TypeScript / EcmaScript
 ### - 🤔 ReactJS
 ### - 💬 Bootstrap
+### - 🎒 API
+### - 👝 FIGMA
 
 ##
 
