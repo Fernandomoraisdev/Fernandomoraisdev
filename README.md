@@ -2,8 +2,8 @@
 
 ### - 🔭 Frontend
 ### - 🌱 HTML5 / CSS3 
-### - 👯 JavaScript / TypeScript / EcmaScript
-### - 🤔 ReactJS
+###   🤔 ReactJS dev 
+### - 👯 TypeScript / JavaScript  
 ### - 💬 Bootstrap
 ### - 🎒 API
 ### - 👝 FIGMA
