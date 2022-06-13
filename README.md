@@ -1,8 +1,8 @@
 # Olá! eu sou o Fernando Morais, Desenvolvedor Frontend!
 
 ### - 🔭 Frontend
+### - 🤔 ReactJS
 ### - 🌱 HTML5 / CSS3 
-###   🤔 ReactJS dev 
 ### - 👯 TypeScript / JavaScript  
 ### - 💬 Bootstrap
 ### - 🎒 API
