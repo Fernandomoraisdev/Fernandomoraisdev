@@ -1,6 +1,11 @@
-# Olá! eu sou o Fernando Morais, Desenvolvedor Frontend!
+# Olá! eu sou o Fernando Morais, Desenvolvedor de Software!
 
-### - 🔭 Frontend
+### - 🔭 FullStack
+### - 🤔 PHP
+### - 🤔 Laravel
+### - 🤔 Docker-compose
+### - 🤔 Composer
+### - 🤔 Orientacao a Objeto
 ### - 🤔 ReactJS
 ### - 🌱 HTML5 / CSS3 
 ### - 👯 TypeScript / JavaScript  
