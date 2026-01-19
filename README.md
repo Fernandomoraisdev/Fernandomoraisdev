@@ -1,4 +1,4 @@
-# Olá! eu sou o Fernando Morais, Desenvolvedor de Software!
+# Olá! Me chamo Fernando Morais, e sou Desenvolvedor de Software!
 
 ### - 🔭 FullStack
 ### - 🤔 PHP
